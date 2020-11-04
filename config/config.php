@@ -35,6 +35,7 @@ return [
 
     'manager' => [
         'enabled' => true,
+		'password' => '123456',
 
         'route' => [
             'name' => 'adminer.manager.index',

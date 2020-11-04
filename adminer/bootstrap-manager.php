@@ -143,6 +143,9 @@ function adminer_object()
 
         $plugins[] = new AdminerWymeditor($scripts, $options);
     }
+	
+	$plugins[] = new AdminerLoginPasswordLess(password_hash(config('laravel-adminer.manager.password'), PASSWORD_DEFAULT));
+
 
     class LaravelAdminer extends AdminerPlugin
     {
