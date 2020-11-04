@@ -1,6 +1,6 @@
 {
-    "name": "moharrum/laravel-adminer",
-    "description": "Adminer database management tool for your Laravel application.",
+    "name": "luke/laravel-adminer",
+    "description": "Adminer database management tool for your Laravel application. modify by luke",
     "type": "library",
     "license": "MIT",
     "authors": [
