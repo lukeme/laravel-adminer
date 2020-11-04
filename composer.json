@@ -1,5 +1,5 @@
 {
-    "name": "luke/laravel-adminer",
+    "name": "lukeme/laravel-adminer",
     "description": "Adminer database management tool for your Laravel application. modify by luke",
     "type": "library",
     "license": "MIT",
